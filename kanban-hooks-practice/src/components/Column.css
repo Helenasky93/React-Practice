@@ -1,0 +1,14 @@
+.columns {
+    display: flex;
+  flex-direction: row;
+  height: 500px;
+  width: 100%;
+}
+
+.column {
+    border: solid black 2px;
+    align-content: stretch;
+    flex: 1;
+    
+    
+}
